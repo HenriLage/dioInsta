@@ -1,0 +1,27 @@
+@media (max-width: 1024px) {
+    .wrapInsta {
+        width: 90%;
+    }
+}
+
+@media (max-width: 700px) {
+    body {
+        background-color: #ffffff;
+    }
+
+    .wrapInsta {
+        width: 90%;
+    }
+
+    .instaTel {
+        display: none;
+    }
+
+    .instaContinua {
+        width: 100%;
+    }
+    
+    .grupo {
+        border: 1px solid transparent;
+    }
+}
